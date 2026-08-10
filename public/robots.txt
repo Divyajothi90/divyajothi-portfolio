@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://divyajothi-s.lovable.app/sitemap.xml

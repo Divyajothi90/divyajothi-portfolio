@@ -1,0 +1,7 @@
+# Divyajothi S
+
+> Portfolio of Divyajothi S — Final-year B.Tech AI & Data Science student and Full-Stack Developer building production-ready web applications and AI-powered software.
+
+## Pages
+
+- [Home](/): Portfolio homepage with about, skills, experience, projects, education, certifications, achievements, and contact.
