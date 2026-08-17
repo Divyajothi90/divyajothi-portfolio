@@ -1,29 +1,38 @@
-# Welcome to your Lovable project
+Divyajothi S — Portfolio
 
-This project was built with [Lovable](https://lovable.dev).
+Welcome to my personal portfolio website.
 
-## Build with Lovable
+👩‍💻 About Me
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+I am a B.Tech student specializing in Artificial Intelligence & Data Science, interested in AI, Data Analytics, Web Development, and emerging technologies.
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+🛠️ Skills
 
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
-```
-
-## Built with
-
-- TanStack Start
-- TypeScript
+- Python
+- Java
+- SQL
+- HTML, CSS, JavaScript
 - React
-- Tailwind CSS
+- Data Analytics
+- Machine Learning
+- Git & GitHub
+
+🚀 Projects
+
+- AI-Based Groundwater Level Predictor
+- CampusConnect AI — AI-powered Campus Placement Portal
+- Event Management Website
+- Dual Conveyor Belt System
+
+🌐 Portfolio
+
+Live Website: https://divyajothi-portfolio.vercel.app/
+
+📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/divyajothi786/
+GitHub: https://github.com/Divyajothi90
+
+---
+
+Built with passion and continuous learning.
